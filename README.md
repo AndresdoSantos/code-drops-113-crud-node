@@ -1,7 +1,4 @@
 ## CRUD com Express e TypeORM
-
-![Logo da Rocketseat](https://pbs.twimg.com/profile_images/1291682473592659968/sEorc6oh_400x400.jpg)
-
 Projeto desenvolvido em uma [aula](https://www.youtube.com/watch?v=9AO2hZJsHrs) da Rocket 🚀.
 
 #### Como rodar
